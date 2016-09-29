@@ -1,0 +1,38 @@
+.Pho{
+  display:inline-block;
+  float: right;
+}
+
+h1{
+  color:black;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body{
+  background: pink;
+}
+
+/*img{
+  position: absolute;
+     top: 0px;
+     right: 0px;
+margin: 600px;
+display: inline-block;
+}*/
+img{
+  width: 100%;
+}
+.pho1 img{
+  max-width: 400px;
+  float: right;
+  font:bold;
+
+}
+.pho1 li{
+  clear: right;
+  font-family: 'Yatra One', cursive;
+}
+.hours{
+  display: inline-block;
+}
