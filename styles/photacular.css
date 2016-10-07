@@ -26,14 +26,25 @@ img{
 .pho1 img{
   max-width: 400px;
   float: right;
-  font:bold;
+
 
 }
 .pho1 li{
   clear: right;
   font-family: 'Yatra One', cursive;
-  
+
 }
 .hours{
   display: inline-block;
+}
+
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  color: red;
+  padding: 10px;
+  background: white;
+  border-radius: 50%;
 }
